@@ -6,9 +6,9 @@ public class Principal {
         System.out.println("nome: " +perfil.getNome());
         System.out.println("Idade: " +perfil.getIdade());
         System.out.println("Perfil: " +perfil.getUsername());
-        perfil.setSenha("Eyec123");  
+        perfil.setSenha("Etec123");  
 
-        if(perfil.verificaSenha("Etec123")){
+        if(perfil.verificaSenha("Etec2023")){
             System.out.println("senha inválida");
         }else{
             System.out.println("senha inválida!");

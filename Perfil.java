@@ -33,7 +33,7 @@ public class Perfil{
         return senha;
     }
 
-    public Perfil(String nome, int Idade, String username, String senha){
+    public Perfil(String nome, int idade, String username, String senha){
         this.nome=nome;
         this.idade=idade;
         this.username=username;
